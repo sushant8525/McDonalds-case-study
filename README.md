@@ -55,7 +55,7 @@ attribute).
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
   
-<h2> :book: Depoyment on Heroku</h2>
+<h2> :book: Depoyment on render.com</h2>
 
 [![](https://github.com/sushant8525/McDonalds-case-study/blob/42f7f7c267fb9f88cfff3174f727a5323e945b9b/images/1.png)](https://mcdonalds-case-study.onrender.com/
 )
